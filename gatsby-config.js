@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `My Portfolio`,
-    description: `Hi I'm Kunal Raghav and this website showcases my work.`,
-    author: `Kunal Raghav`,
+    description: `Hi I'm Ishan Arya and this website showcases my work.`,
+    author: `Ishan Arya`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -18,7 +18,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Kunal Raghav Portfolio`,
+        name: `Ishan Arya Portfolio`,
         short_name: `KR_portfolio`,
         start_url: `/`,
         background_color: `#663399`,
